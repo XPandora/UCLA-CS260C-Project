@@ -8,6 +8,7 @@ Model Compression for Vision Transformer
 #### pruning
 
 - https://github.com/Cydia2018/ViT-cifar10-pruning *
+- https://github.com/zhuang-group/spvit *
 
 #### quantization
 
