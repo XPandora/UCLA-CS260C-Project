@@ -18,7 +18,8 @@ Model Compression for Vision Transformer
 #### low-rank approximation
 
 - https://github.com/fudan-zvg/SOFT
-- https://github.com/HazyResearch/pixelfly *
+- https://github.com/HazyResearch/pixelfly
+- https://github.com/mlpen/Nystromformer *
 
 #### other
 
